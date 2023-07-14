@@ -36,7 +36,7 @@ origin  https://github.com/Sohyeon-Choi/intro.git (push)
 * 다른 사람 폴더 복제
 
  1. git clone [주소] [지정폴더이름]
- 1. cd [해당폴더]
+ 1. cd [해당폴더]/
  1.  code.
 
 ## 2. `깃 허브에서 가져오기`
